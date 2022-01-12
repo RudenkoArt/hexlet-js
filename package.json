@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RudenkoArt/hexlet-js/issues"
   },
-  "homepage": "https://github.com/RudenkoArt/hexlet-js#readme"
+  "homepage": "https://github.com/RudenkoArt/hexlet-js#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
 }
